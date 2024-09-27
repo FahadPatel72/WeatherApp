@@ -165,6 +165,8 @@
 .completeweather{
     display: flex;
     align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
     margin-top: 20px;
     gap:20px;
 }
